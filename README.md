@@ -50,3 +50,57 @@ As linguagens client-server são aquelas que permitem que o cliente (navegador) 
 </ol>
 
 Essas linguagens client-server trabalham em conjunto com APIs (Interfaces de Programação de Aplicativos), que permitem que o cliente faça solicitações ao servidor para buscar informações e executar tarefas. A escolha da linguagem de programação depende do tipo de aplicativo e das necessidades do projeto.
+
+## HTML na Prática
+Na prática, o HTML é usado para definir a estrutura e o conteúdo da página, bem como para adicionar links, imagens, vídeos e outros elementos.
+
+Aqui estão alguns exemplos práticos de como usar o HTML:
+
+• Criando uma página web básica:
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Minha Página Web</title>
+	</head>
+	<body>
+		<h1>Bem-vindo à minha página web</h1>
+		<p>Esta é uma página simples criada com HTML.</p>
+	</body>
+	</html>
+
+Este código cria uma página web básica com um cabeçalho e um parágrafo de texto.
+
+• Adicionando uma imagem:
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Minha Página Web</title>
+	</head>
+	<body>
+		<h1>Bem-vindo à minha página web</h1>
+		<p>Esta é uma página simples criada com HTML.</p>
+		<img src="imagem.jpg" alt="Minha imagem">
+	</body>
+	</html>
+
+Este código adiciona uma imagem à página, usando a tag <code><img></code>. A imagem deve estar localizada no mesmo diretório que o arquivo HTML, caso esteja em outra pasta, seguir as práticas de Linux como <code>./img/imagem.jpg</code>.
+
+• Criando links:
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Minha Página Web</title>
+	</head>
+	<body>
+		<h1>Bem-vindo à minha página web</h1>
+		<p>Esta é uma página simples criada com HTML.</p>
+		<a href="https://www.leonardostella.lesttech.com">Leonardo Stella</a>
+	</body>
+	</html>
+
+Este código cria um link para o meu site, usando a tag <code><a></a></code>. Quando o usuário clica no link, o navegador abre o site inserido no link em uma nova guia.
+
+Estes são apenas alguns exemplos simples de como usar o HTML na prática. Existem muitas outras tags e recursos disponíveis para criar páginas web mais complexas e dinâmicas.
