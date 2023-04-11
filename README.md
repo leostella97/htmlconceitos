@@ -14,3 +14,22 @@ O cliente envia uma solicitação para o servidor, que processa a solicitação 
 Os clientes podem ser dispositivos como computadores, smartphones ou tablets, e os servidores podem ser máquinas físicas ou virtuais que hospedam serviços ou aplicativos (como o serviço Cloud, por exemplo AWS, Azure e GCP). É comum que um servidor hospede vários serviços ou aplicativos simultaneamente, atendendo a solicitações de diversos clientes.
 
 O modelo cliente-servidor é amplamente utilizado na internet e em sistemas distribuídos, permitindo que usuários acessem recursos e serviços disponibilizados por empresas e organizações em todo o mundo. Exemplos de serviços que utilizam esse modelo incluem servidores web, servidores de e-mail, servidores de arquivos, entre outros.
+
+### Linguagens de Programação Server-Side
+Linguagens de programação server-side são aquelas que são executadas no servidor, em oposição às linguagens de programação client-side, que são executadas no navegador do cliente. Essas linguagens são usadas para criar aplicativos web e serviços que podem ser acessados por meio da internet.
+
+Algumas das linguagens de programação server-side mais comuns incluem:
+
+<ol>
+<li>PHP - Uma das linguagens de programação mais populares para desenvolvimento web, especialmente para sites dinâmicos e aplicativos baseados em bancos de dados.
+
+<li>Python - Uma linguagem de programação versátil que pode ser usada para uma ampla variedade de aplicativos, incluindo serviços web, análise de dados e aprendizado de máquina.
+
+<li>Ruby - Uma linguagem de programação com foco na simplicidade e produtividade, frequentemente usada em conjunto com o framework Rails para desenvolvimento web.
+
+<li>Java - Uma das linguagens de programação mais utilizadas no mundo empresarial, usada em sistemas web complexos, aplicativos corporativos e serviços em nuvem.
+
+<li>Node.js - Uma plataforma baseada em JavaScript que permite que os desenvolvedores criem aplicativos escaláveis e de alto desempenho no lado do servidor.
+</ol>
+
+Essas linguagens de programação server-side geralmente trabalham em conjunto com bancos de dados, frameworks e outras ferramentas para construir aplicativos web robustos e escaláveis. A escolha da linguagem de programação depende do tipo de aplicativo, das necessidades da empresa e das habilidades da equipe de desenvolvimento.
