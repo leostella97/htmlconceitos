@@ -21,15 +21,32 @@ Linguagens de programação server-side são aquelas que são executadas no serv
 Algumas das linguagens de programação server-side mais comuns incluem:
 
 <ol>
-<li>PHP - Uma das linguagens de programação mais populares para desenvolvimento web, especialmente para sites dinâmicos e aplicativos baseados em bancos de dados.
+<li> PHP - Uma das linguagens de programação mais populares para desenvolvimento web, especialmente para sites dinâmicos e aplicativos baseados em bancos de dados.
 
-<li>Python - Uma linguagem de programação versátil que pode ser usada para uma ampla variedade de aplicativos, incluindo serviços web, análise de dados e aprendizado de máquina.
+<li> Python - Uma linguagem de programação versátil que pode ser usada para uma ampla variedade de aplicativos, incluindo serviços web, análise de dados e aprendizado de máquina.
 
-<li>Ruby - Uma linguagem de programação com foco na simplicidade e produtividade, frequentemente usada em conjunto com o framework Rails para desenvolvimento web.
+<li> Ruby - Uma linguagem de programação com foco na simplicidade e produtividade, frequentemente usada em conjunto com o framework Rails para desenvolvimento web.
 
-<li>Java - Uma das linguagens de programação mais utilizadas no mundo empresarial, usada em sistemas web complexos, aplicativos corporativos e serviços em nuvem.
+<li> Java - Uma das linguagens de programação mais utilizadas no mundo empresarial, usada em sistemas web complexos, aplicativos corporativos e serviços em nuvem.
 
-<li>Node.js - Uma plataforma baseada em JavaScript que permite que os desenvolvedores criem aplicativos escaláveis e de alto desempenho no lado do servidor.
+<li> Node.js - Uma plataforma baseada em JavaScript que permite que os desenvolvedores criem aplicativos escaláveis e de alto desempenho no lado do servidor.
 </ol>
 
 Essas linguagens de programação server-side geralmente trabalham em conjunto com bancos de dados, frameworks e outras ferramentas para construir aplicativos web robustos e escaláveis. A escolha da linguagem de programação depende do tipo de aplicativo, das necessidades da empresa e das habilidades da equipe de desenvolvimento.
+
+### inguagens Client-Server
+As linguagens client-server são aquelas que permitem que o cliente (navegador) e o servidor se comuniquem e trabalhem juntos para fornecer serviços e recursos aos usuários finais. Algumas das linguagens mais populares usadas no desenvolvimento client-server são:
+
+<ol>
+<li> JavaScript - é a linguagem de programação mais popular para desenvolvimento web e é usada em conjunto com HTML e CSS para criar interatividade e dinamismo em páginas web.
+
+<li> TypeScript - é um superset de JavaScript que adiciona recursos como tipos de dados e interfaces, tornando o desenvolvimento mais eficiente e seguro.
+
+<li> Dart - é uma linguagem de programação da Google, que é usada para criar aplicativos web e móveis.
+
+<li> Kotlin - é uma linguagem de programação moderna da JetBrains, que é usada principalmente para o desenvolvimento de aplicativos Android, mas também pode ser usada para aplicativos web.
+
+<li> Swift - é uma linguagem de programação criada pela Apple, que é usada principalmente para desenvolvimento de aplicativos iOS, mas também pode ser usada para aplicativos web.
+</ol>
+
+Essas linguagens client-server trabalham em conjunto com APIs (Interfaces de Programação de Aplicativos), que permitem que o cliente faça solicitações ao servidor para buscar informações e executar tarefas. A escolha da linguagem de programação depende do tipo de aplicativo e das necessidades do projeto.
